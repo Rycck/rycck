@@ -1,6 +1,6 @@
 <img align="right" width="140" src="https://media.tenor.com/v8t_l6480cIAAAAj/serial-experiments-lain.gif">
 
-<img align="left" width="100" src="https://github.com/user-attachments/assets/807ca9b1-e75b-4a63-9898-3b3e72a9ab22">
+<img align="left" width="100" src="[https://github.com/user-attachments/assets/927427a7-cb5c-4a3d-8444-ce96479f706b">
 
 <h1>rycck</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&width=435&lines=IT+Infrastructure;Cloud+Computing;Systems+Administration" alt="Typing SVG" /></a><br>
